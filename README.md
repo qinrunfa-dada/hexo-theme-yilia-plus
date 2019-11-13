@@ -22,9 +22,9 @@ git pull
 这个是我fockhttps：//github.com/JoeyBling/hexo-theme-yilia-plus
 
 
-我没把我的本地介入过的代码同步到这里
+我没把我的本地改动过的代码同步到这里
 
-我本地代买同步在这里https://qinrunfa-dada.coding.net/p/qinrunfa.coding.me/d/qinrunfa.coding.me/git
+我本地的代码同步在这里https://qinrunfa-dada.coding.net/p/qinrunfa.coding.me/d/qinrunfa.coding.me/git
 
 也可以在这里https://gitee.com/qinrunfa/hexo-theme-yilia-plus
 
