@@ -20,10 +20,17 @@ git pull
 ```
 
 这个是我fockhttps：//github.com/JoeyBling/hexo-theme-yilia-plus
+
+
 我没把我的本地介入过的代码同步到这里
+
 我本地代买同步在这里https://qinrunfa-dada.coding.net/p/qinrunfa.coding.me/d/qinrunfa.coding.me/git
+
 也可以在这里https://gitee.com/qinrunfa/hexo-theme-yilia-plus
+
 我的编码和码云是同步的，github上只是最初的代码，码云和coding上是我植入过的代码
+
 可以登录我的博客https://qinrunfa.top/   C查看效果
+
 我在github的代码基础上做植入的地方的步骤怎么弄得可以在我的博客上的文章看到也可以在CSDN上看到https://blog.csdn.net/weixin_44330881
 
